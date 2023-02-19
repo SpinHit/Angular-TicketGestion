@@ -10,3 +10,14 @@ Pour créer un nouveau ticket, remplissez simplement le formulaire de création 
 Pour archiver un ticket existant, sélectionnez-le dans la liste des tickets affichée à l'écran. Cliquez sur le bouton "Archiver" pour déplacer le ticket dans la liste des tickets archivés.
 
 Pour afficher les tickets archivés, cliquez sur le bouton "Afficher les tickets archivés". Vous pouvez réafficher la liste des tickets actifs en cliquant sur le bouton "Afficher les tickets actifs".
+
+## Fonctionnalités
+- Créer des tickets avec des identifiants uniques, des titres, des descriptions et des catégories
+- Archiver des tickets existants
+- Afficher les tickets archivés
+- Réafficher la liste des tickets actifs
+
+## Technologies utilisées
+- AngularJS
+- HTML
+- CSS
